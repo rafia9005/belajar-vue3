@@ -1,0 +1,68 @@
+{
+    "window.menuBarVisibility": "toggle",
+    "editor.dragAndDrop": false,
+    "editor.fontFamily": "JetBrains Mono",
+    "editor.wordWrap": "on",
+    "editor.minimap.enabled": false,
+    "workbench.colorTheme": "GitHub Dark",
+    "workbench.editor.showTabs": "multiple",
+    "files.exclude": {
+        "**/node_modules": true
+    },
+    "breadcrumbs.enabled": false,
+    "editor.renderWhitespace": "none",
+    "editor.renderControlCharacters": false,
+    "workbench.editor.editorActionsLocation": "hidden",
+    "editor.scrollbar.vertical": "hidden",
+    "editor.scrollbar.horizontal": "hidden",
+    "extensions.autoUpdate": false,
+    "workbench.startupEditor": "newUntitledFile",
+    "workbench.editor.enablePreview": false,
+    "editor.smoothScrolling": false,
+    "files.autoSave": "off",
+    "git.enabled": false,
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "material-icon-theme.hidesExplorerArrows": true,
+    "workbench.tree.renderIndentGuides": "none",
+    "editor.fontSize": 13,
+    "[typescriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[html]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[php]": {
+        "editor.defaultFormatter": "bmewburn.vscode-intelephense-client"
+    },
+    "[vue]": {
+        "editor.defaultFormatter": "Vue.volar"
+    },
+    "workbench.layoutControl.enabled": false,
+    "editor.cursorStyle": "block",
+    "[json]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.stickyScroll.enabled": false,
+    "discord.removeRemoteRepository": true,
+    "discord.removeLowerDetails": true,
+    "discord.removeDetails": true,
+    "discord.removeTimestamp": true,
+    "terminal.integrated.gpuAcceleration": "off",
+    "javascript.updateImportsOnFileMove.enabled": "never",
+
+    // chat gpt config
+    // "editor.codeLens": false,
+    "editor.formatOnSave": false,
+    "search.exclude": {
+      "**/node_modules": true,
+      "**/bower_components": true,
+      "**/dist": true
+    },
+    "git.autofetch": false,
+    "git.confirmSync": false,
+    "window.zoomLevel": 0,
+    "update.mode": "none",
+}
